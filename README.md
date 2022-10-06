@@ -2,6 +2,7 @@
 
 Primera vez en GitHub
 
-Me gusta :videojuegos:, :futbol:, :perro:
+Me gusta los videojuegos, el futbol y pasear
 
 Tercer repositorio en GitHub
+
