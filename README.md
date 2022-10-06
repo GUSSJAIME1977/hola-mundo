@@ -1,4 +1,4 @@
-# hola-mundo-2
+# hola-mundo
 
 Primera vez en GitHub
 
